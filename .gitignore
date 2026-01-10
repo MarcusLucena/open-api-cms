@@ -1,4 +1,5 @@
 /src/generated/prisma
+/src/generated/**
 /node_modules
 /.env
 .DS_Store
